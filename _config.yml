@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Maciej Galkiewicz
+email:       macias@ragnarson.com
+author:      Maciej Galkiewicz
+description: "CEO at ragnarson.com: Building web apps for startups. Blockchain, transparency, decentralization enthusiast. Motorcyclist. Music lover. Living a purposeful life."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://mgalkiewicz.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
