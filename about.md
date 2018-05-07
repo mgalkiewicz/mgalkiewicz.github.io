@@ -1,87 +1,27 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+{: .center }
+![](/images/me.jpeg)
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Hi there, I'm Maciej.
 
-Thanks to the following:
+I'm trying to improve how we, as a society, live. My focus is on self-management, transparency, and decentralization. Right now, I’m putting to use what I’ve learned, at [Ragnarson](https://ragnarson.com). It allows me to develop new insights at the same time.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Privately, I'm a motorcyclist, music lover, and [bookworm](https://www.goodreads.com/user/show/27998062-maciej-ga-kiewicz).
 
-List of contributors:
+## My story
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+I believe there is much to be improved with the modern world. There are two problems which I find disconcerting: opacity and centralization. I see them as forces hampering our ability to create better societies.
+
+Since 2014, together with the team, I've been experimenting with self-management practices at Ragnarson. Instead of making centralized decisions at the top, we tried the opposite by delegating power to people. In order to provide them with necessary context, we opened up our company data. It proved to be successful and is now part of our culture.
+
+In 2016, I became interested in the blockchain. Since then, I'm trying to understand how what we have learned could be combined with its characteristics and deployed on a larger scale.
+
+## Let’s talk
+
+I don't have all the answers but I'm motivated to share our findings. Feel free to contact me at macias at ragnarson.com.
