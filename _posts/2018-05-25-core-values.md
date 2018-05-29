@@ -3,6 +3,7 @@ layout:     post
 title:      How to define your organization’s core values
 date:       2018-05-25 09:18:00 +0200
 summary:    Every organization has its own way of doing things. Creating alignment on a shared vision among your employees is not a trivial task. Well-defined core values can be exceedingly helpful when they guide behaviors and actions taken by the company. Here I will share what we learned during our process to ensure that you are successful if you decide to define your company’s values.
+preview_image: images/learn-new-things.gif
 ---
 
 {: .center }

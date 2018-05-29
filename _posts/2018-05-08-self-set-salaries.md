@@ -3,6 +3,7 @@ layout:     post
 title:      What I’ve learned as a CEO from a year of self-set salaries
 date:       2018-05-08 10:08:00 +0200
 summary:    Evaluating people and setting their salaries are challenging tasks. Letting people do it themselves sounds even more terrifying. I’m sharing our lessons learned and an overview of the process from a broader perspective.
+preview_image: images/2017-09-workshops1.jpg
 ---
 
 {: .center }
