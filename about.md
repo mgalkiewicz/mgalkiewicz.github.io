@@ -24,4 +24,4 @@ In 2016, I became interested in the blockchain. Since then, I'm trying to unders
 
 ## Let’s talk
 
-I don't have all the answers but I'm motivated to share our findings. Feel free to contact me at macias at ragnarson.com.
+I don't have all the answers but I'm motivated to share our findings. Feel free to contact me at maciej at maciejgalkiewicz.com.
