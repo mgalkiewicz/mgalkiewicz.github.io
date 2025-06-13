@@ -5,23 +5,88 @@ permalink: /about/
 tags: about
 ---
 
-{: .center }
-![](/images/me.jpeg)
+<style>
+  .image-text-block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 
-Hi there, I'm Maciej.
+  }
 
-I'm trying to improve how we, as a society, live. My focus is on self-management, transparency, and decentralization. Right now, I’m putting to use what I’ve learned, at [Ragnarson](https://ragnarson.com). It allows me to develop new insights at the same time.
+  .image-text-block .text {
+    flex: 1 1 300px;
+    min-width: 250px;
+  }
 
-Privately, I'm a motorcyclist, music lover, and [bookworm](https://www.goodreads.com/user/show/27998062-maciej-ga-kiewicz).
+  .image-text-block .image {
+    margin-left: 30px;
+  }
 
-## My story
+  .image-text-block .image img {
+    display: block; /* remove inline spacing issues */
+    height: auto;
+    width: auto; /* let it be natural size */
+    max-width: none; /* remove any max-width restriction */
+  }
 
-I believe there is much to be improved with the modern world. There are two problems which I find disconcerting: opacity and centralization. I see them as forces hampering our ability to create better societies.
+  @media (max-width: 768px) {
+    .image-text-block {
+      flex-direction: column-reverse;
+      align-items: flex-start;
+    }
 
-Since 2014, together with the team, I've been experimenting with self-management practices at Ragnarson. Instead of making centralized decisions at the top, we tried the opposite by delegating power to people. In order to provide them with necessary context, we opened up our company data. It proved to be successful and is now part of our culture.
+    .image-text-block .image {
+      margin: 0 0 1em 0;
+    }
+  }
+</style>
 
-In 2016, I became interested in the blockchain. Since then, I'm trying to understand how what we have learned could be combined with its characteristics and deployed on a larger scale.
+<div class="image-text-block">
+  <div class="text">
+    <p>
+      Hi, I’m Maciej. I’m endlessly curious about how the world works.
+<br><br>
+I read across disciplines—history, biographies, business, marketing, investing, psychology, fiction, and more—to explore how people think, act, and build.
+<br><br>
+I live in Berlin with my wife and two kids. I love riding motorcycles, listening to music (preferably loud), working out at the gym, and escaping to Italy whenever I can. Sport has always been part of my life, and these days I mostly train in the gym.
+    </p>
+  </div>
+  <div class="image">
+    <img src="/images/me.jpg" style="max-width: 100%;">
+  </div>
+</div>
 
-## Let’s talk
+## My Work
 
-I don't have all the answers but I'm motivated to share our findings. Feel free to contact me at maciej at maciejgalkiewicz.com.
+Over the past 10+ years, I’ve gone from being a system administrator to taking over and scaling a company. Almost overnight, I became the CEO of [Ragnarson](https://ragnarson.com)—a software development company—where I led a team of 60 people. That experience taught me a lot about leadership, responsibility, and what it means to grow with your company.
+
+I’ve also invested in and worked closely with startups, particularly in the **climate tech** space. I’ve helped founders challenge their assumptions, build better systems, and make more grounded decisions.
+
+## What I’m Exploring Now
+
+Lately, I’ve been diving deep into **decision-making**. As a founder, I’ve faced tough decisions—some I navigated well, others not so much. That experience sparked a deeper interest in how decisions are made.
+
+Right now, I’m exploring:
+
+- Decision-making frameworks
+- Cognitive biases and heuristics
+- Probabilistic and Bayesian thinking
+- Complexity and systems thinking
+- Incentives and game theory
+- The role of personal values, identity, and context in shaping decisions
+
+If you’re working in this space or just curious about it, I’d love to connect.
+
+## What I Bring to the Table
+
+People often tell me my strengths lie in:
+
+- Discipline and commitment
+- Quickly assessing systems for gaps, contradictions, and inefficiencies
+- Asking sharp, sometimes uncomfortable, questions
+- Building relationships and trust quickly
+
+---
+
+Feel free to reach out if any of this resonates or if you're working on something interesting.
+
