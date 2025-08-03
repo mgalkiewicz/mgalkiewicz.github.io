@@ -140,7 +140,7 @@ When it comes to creating a unique value proposition for developers, we can stil
 
 Similar to many other agencies, we are still in search of more predictable revenue streams. We managed to stabilize our positive cash flow and “buy” ourselves some time to identify a new strategic path for the future. One of the most interesting lessons, that we learned during this difficult period, related to the way in which our team reacted. Their attitude reflected a strong belief in themselves and their own abilities and a willingness to make the organization successful. I am very proud to work with this team and deeply admire their spirit and tenacity.
 
-I am curious about your approach to context building and delegation of authority. How you and your company have experimented, and what solutions have you tried? What has been successful, and what have been the pitfalls? Feel free to share any questions and comments on [Twitter](https://twitter.com/mgalkiewicz/) or via [email](mailto:maciej@maciejgalkiewicz.com).
+I am curious about your approach to context building and delegation of authority. How you and your company have experimented, and what solutions have you tried? What has been successful, and what have been the pitfalls? Feel free to share any questions and comments on [Twitter](https://twitter.com/mgalkiewicz/) or via [email](mailto:contact@maciejgalkiewicz.com).
 
 ## Notes
 [^1]: [University of Texas at Austin 2014 Commencement Address - Admiral William H. McRaven](https://youtu.be/pxBQLFLei70?t=291)
